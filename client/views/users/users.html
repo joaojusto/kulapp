@@ -1,0 +1,14 @@
+<template name="users">
+  {{#each users}}
+    <div class="row">
+      <div class="col s12 l6 offset-l3">
+        {{> user}}
+      </div>
+    </div>
+  {{/each}}
+  <div class="row">
+    <div class="col s12 l6 offset-l3">
+      {{> newUser}}
+    </div>
+  </div>
+</template>
