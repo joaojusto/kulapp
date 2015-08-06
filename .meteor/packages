@@ -11,3 +11,6 @@ iron:router
 fourseven:scss
 materialize:materialize
 accounts-password
+reactive-var
+em0ney:chartjs
+momentjs:moment
